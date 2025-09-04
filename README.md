@@ -1,1 +1,2 @@
-# about.txt
+hackathon 
+day-1
